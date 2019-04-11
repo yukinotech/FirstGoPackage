@@ -1,8 +1,7 @@
-package main
+package FirstGoPackage
 
 import (
 	"fmt"
-	"github.com/yukinotech/FirstGoPackage"
 )
 
 func main(){
